@@ -1,3 +1,3 @@
 # hello-world
-Create a reporsitory
+Create a repository
 just get going!
